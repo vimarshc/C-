@@ -4,6 +4,7 @@
 using namespace std;
 //Hello
 //change : 1
+//change : 2
 struct data{
     int number;
 };
