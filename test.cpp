@@ -3,7 +3,7 @@
 #include<vector>
 using namespace std;
 //Hello
-
+//change : 1
 struct data{
     int number;
 };
