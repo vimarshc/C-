@@ -2,9 +2,7 @@
 #include<map>
 #include<vector>
 using namespace std;
-//Hello
-//change : 1
-//change : 2
+//Change merging mofo
 struct data{
     int number;
 };
